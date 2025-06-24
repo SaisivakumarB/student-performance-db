@@ -1,7 +1,8 @@
 # 🎓 Student Performance Tracker (SQL Mini Project)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/student-performance-db)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/student-performance-db)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+![GitHub repo size](https://img.shields.io/github/repo-size/SaisivakumarB/student-performance-db)
+![GitHub last commit](https://img.shields.io/github/last-commit/SaisivakumarB/student-performance-db)
+![GitHub top language](https://img.shields.io/github/languages/top/SaisivakumarB/student-performance-db)
+![SQL](https://img.shields.io/badge/Database-SQL-blue.svg)
 
 <img src="banner.png" alt="Project Banner" width="100%">
 
