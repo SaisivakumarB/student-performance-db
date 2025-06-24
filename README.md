@@ -27,6 +27,19 @@ A mini database project to manage and analyze student academic performance and a
 - Analyze top-performing students
 - Correlate attendance with grades
 
+## 🐍 Python CLI Integration
+
+This project includes a Python CLI app (`app/main.py`) that lets users:
+
+- Create the `Students` and `Marks` tables
+- Add a new student via terminal
+- View all student records
+
+### ▶️ How to Run
+
+```bash
+python app/main.py
+
 ---
 
 🎯 Ideal for database practice and interviews.
